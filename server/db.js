@@ -163,7 +163,7 @@ const db = {
     data: allIdeas,
     nextId: ideaIdCounter,
     isValid: isValidIdea,
-  },
+  }, 
   allWork: {
     data: allWork,
     nextId: workIdCounter,
